@@ -3,7 +3,7 @@ from discord.ext import commands
 from krk import *
 from colorama import Fore
 
-token = "ODU5NTE4MjkwMzk2MTg0NTk3.YbKGXg.mYbH9mA6lBBwp7-sGK14ZbUFZ7w" #Coloque seu token aqui
+token = "" #Coloque seu token aqui
 prefixo = "aa!" #Coloque o prefixo aqui
 
 kraken = commands.Bot(command_prefix=prefixo, self_bot=True, case_insensitive=True)
